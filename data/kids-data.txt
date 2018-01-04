@@ -4,7 +4,7 @@ ben       nice      Blocks        Dominoes      Monopoly      Bear          Bicy
 costa     naughty   Bear          Bicycle       Lego          Boat          Car           Blocks         166            Mcnicoll       Ave            M4K1B2       1290000      |  pushed your sister off the roof
 dale      nice      Truck         Barbie        Slinky        Crayons       Doll          Dominoes       430            Military       Tr             M1K1B1       675000
 eileen    nice      Crayons       Doll          Batman        Meccano       Gumby         Soldier        2627           Mccowan        Rd             M8K1E5       4901234
-fred      naughty   Meccano       Gumby         Soldier       Kaleidoscope  Pony          Lego           247            Westmount      Ave            M4L1E1       123094       |  emptied your dad's $500 bottle of Johnnie Walker Blue
+fred      naughty   Meccano       Kaleidoscope  Kaleidoscope  Kaleidoscope  Pony          Lego           247            Westmount      Ave            M4L1E1       123094       |  emptied your dad's $500 bottle of Johnnie Walker Blue
 gordie    nice      Bicycle       Pony          Lego          Barbie        Slinky        Clue           31             Yorkshire      Rd             M8L5E6       499900
 harold    nice      Barbie        Slinky        Clue          Plane         Pony          Risk           34             Ordway         Rd             M7L5D8       599000
 isadora   nice      Plane         Pony          Risk          Robot         Zelda         Scrabble       47             Waterbeach     Cres           M2L1K8       549900

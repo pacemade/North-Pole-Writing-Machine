@@ -1,0 +1,29 @@
+Dear <%= name.capitalize %>,
+
+You must be very excited that Christmas is coming. Are you looking forward to getting lots of fun toys?
+
+Are you? Seriously? C'mon kid.
+
+I've been watching you all year. You <%= infraction %>.
+And you've been a very naughty kid.
+
+I can forgive a lot but when you made a campfire in your parent's basement it was the last straw. If it were up to me, you'd get nothing. In fact, I'd take back that Furby I got you last year. But Mrs. Claus insisted that I bring you something on your list. So you're getting the <%= toy1 = toys.sample %>. But I'm making sure it's from the defect pile.
+
+<% if toy1 == ('Kaleidoscope') -%>
+
+Scratch that, I've just been informed that we no longer have any more Kaleidoscopes, looks like you get nothing!
+
+<% end -%>
+
+As for the:
+
+<% toys.each do |toy| -%>
+  - <%= toy %>
+<% end -%>
+
+Better luck next year.
+
+Remember – I'll be watching you.
+
+Regards,
+Santa "All-seeing" Claus
